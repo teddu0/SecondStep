@@ -3,6 +3,7 @@ public class SecondStep {
 
         String a = "hello";
         String b = " World";
+        String c = "nothing";
         System.out.println(a + b);
     }
 }
