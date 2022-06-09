@@ -1,6 +1,8 @@
 public class SecondStep {
     public static void main (String[] args) {
 
-        System.out.println("Hello world!");
+        String a = "hello";
+        String b = " World";
+        System.out.println(a + b);
     }
 }
