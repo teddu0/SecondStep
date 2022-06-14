@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-14T11:48:09" hostname="LOFT" time="0.005">
+  <properties/>
+  <testcase name="testArea" classname="RectangleTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
