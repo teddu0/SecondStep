@@ -1,16 +1,16 @@
 public class Distance {
 
-    public int a;
-    public int b;
-    public int c;
+    public int range;
+    public int ruler;
+    public int hand;
 
     public Distance (int a, int b, int c) {
-        this.a = a;
-        this.b = b;
-        this.c = c;
+        this.range = a;
+        this.ruler = b;
+        this.hand = c;
     }
 
     public int distance () {
-        return (this.a / this.b) * this.c;
+        return (this.range / this.ruler) * this.hand;
     }
 }

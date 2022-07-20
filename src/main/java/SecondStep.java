@@ -7,7 +7,7 @@ public class SecondStep {
         System.out.println("Площадь квадрата со стороной " + s.l + " = " + s.area());
 
         Distance d = new Distance(600, 10, 5);
-        System.out.println("Расстояние до предмета высотой " + d.a + " при длине линейки " +  d.b + " и длине руки " + d.c + " = " + d.distance());
+        System.out.println("Расстояние до предмета высотой " + d.range + " при длине линейки " +  d.ruler + " и длине руки " + d.hand + " = " + d.distance());
     }
 
 }
